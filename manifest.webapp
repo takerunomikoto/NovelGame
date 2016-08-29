@@ -1,0 +1,20 @@
+{
+  "name": "novel",
+  "description": "novel",
+  "launch_path": "/novel.html",
+  "developer": {
+    "name": "ryoji",
+    "url": ""
+  },
+  "permissions": [],
+  "locales": {
+    "en-US": {
+      "name": "novel",
+      "description": "novel"
+    }
+  },
+  "default_locale": "jp-JP",
+  "icons": {
+    "128": "/icon.png"
+  }
+}
